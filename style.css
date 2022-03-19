@@ -1,0 +1,15 @@
+html{
+    background: #018DED url(https://images.unsplash.com/photo-1590514526581-bf7feaee0217?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1459&q=80://unsplash.it/1500/1000?image=881&blur=5);
+    background-size: cover;
+    font-family: 'helvetica neum';
+    text-align: center;
+    font-size: 10px;
+}
+body{
+    margin: 0;
+    font-size: 2rem;
+    display: flex;
+    flex: 1;
+    min-height: 100vh;
+    align-items: center;
+}
